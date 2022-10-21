@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ICSharpCode.ILSpyCmd": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Sources-trunk\\3mensio.Workstation\\bin\\x64\\Release\\3mensio.*.dll -o C:\\ILSpy\\ICSharpCode.ILSpyCmd\\bin\\Release\\net6.0 -t _3mensio.UI.Controls.ToolWindowController" 
+    }
+  }
+}
